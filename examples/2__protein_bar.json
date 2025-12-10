@@ -1,0 +1,19 @@
+{
+    "name": "Organic Protein Bar",
+    "price": 150,
+    "currency": "₹",
+    "category": "Snack",
+    "key_ingredients": [
+      {"name": "Almonds", "concentration": "30%"},
+      {"name": "Dates"},
+      {"name": "Whey Protein", "concentration": "20g"}
+    ],
+    "benefits": ["High protein", "Energy boost", "Post-workout recovery"],
+    "usage_instructions": "Consume 1 bar as a snack or after workout",
+    "target_audience": ["Athletes", "Fitness enthusiasts"],
+    "custom_fields": {
+      "calories": "250 kcal",
+      "allergens": "Nuts, Dairy",
+      "shelf_life": "6 months"
+    }
+  }

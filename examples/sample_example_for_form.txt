@@ -1,0 +1,409 @@
+Sample Data for Form Input
+
+=======================================================================================================
+
+Sample 1: Skincare - Anti-Aging Cream
+Basic Information:
+
+Product Name: RetinolGlow Night Cream
+Price: 1299
+Currency: ₹
+Category: Night Cream
+Concentration/Strength: 0.5% Retinol
+
+Ingredients: (Number of ingredients: 4)
+
+Ingredient 1:
+
+Name: Retinol
+Concentration: 0.5%
+Purpose: Anti-aging
+
+
+Ingredient 2:
+
+Name: Peptides
+Concentration: 3%
+Purpose: Collagen boost
+
+
+Ingredient 3:
+
+Name: Niacinamide
+Concentration: 5%
+Purpose: Skin barrier repair
+
+
+Ingredient 4:
+
+Name: Ceramides
+Purpose: Moisturization
+
+
+
+Target & Usage:
+
+Target Audience: (one per line)
+
+  Mature skin
+  Age 30+
+  Dry skin
+
+Usage Instructions:
+
+  Apply pea-sized amount to clean, dry face at night. Start with 2-3 times per week, gradually increase to nightly use. Always use sunscreen during the day.
+
+Side Effects/Warnings:
+
+  May cause initial dryness and peeling. Avoid use during pregnancy. Not suitable for sensitive skin. Sun sensitivity may occur.
+Benefits: (one per line)
+Reduces fine lines and wrinkles
+Improves skin texture
+Boosts collagen production
+Evens skin tone
+Custom Fields:
+
+Field 1:
+
+Name: volume
+Value: 50ml
+
+
+Field 2:
+
+Name: spf_required
+Value: Yes, during daytime
+
+=======================================================================================================
+
+
+Sample 2: Beverage - Cold Brew Coffee
+Basic Information:
+
+Product Name: AromaBlend Cold Brew Coffee
+Price: 349
+Currency: ₹
+Category: Beverage
+Concentration/Strength: (leave empty)
+
+Ingredients: (Number of ingredients: 3)
+
+Ingredient 1:
+
+Name: Arabica Coffee Beans
+Concentration: 100%
+Purpose: Rich flavor
+
+
+Ingredient 2:
+
+Name: Pure Water
+Purpose: Extraction
+
+
+Ingredient 3:
+
+Name: Natural Flavoring
+Concentration: 0.1%
+Purpose: Taste enhancement
+
+
+
+Target & Usage:
+
+Target Audience:
+
+  Coffee lovers
+  Busy professionals
+  Adults 18+
+
+Usage Instructions:
+
+  Shake well before use. Serve chilled or over ice. Can be diluted with water or milk to taste. Consume within 7 days of opening.
+
+Side Effects/Warnings:
+
+  Contains caffeine (150mg per serving). May cause jitters or sleep disruption if consumed late. Not recommended for children or pregnant women.
+Benefits:
+Smooth, less acidic than hot coffee
+Sustained energy boost
+Rich antioxidants
+Convenient ready-to-drink format
+Custom Fields:
+
+Field 1:
+
+Name: caffeine_content
+Value: 150mg per 250ml
+
+
+Field 2:
+
+Name: bottle_size
+Value: 250ml
+
+
+Field 3:
+
+Name: refrigeration
+Value: Required after opening
+
+========================================================================================================
+
+
+Sample 3: Supplements - Multivitamin
+Basic Information:
+
+Product Name: DailyVita Complete Multivitamin
+Price: 599
+Currency: ₹
+Category: Dietary Supplement
+Concentration/Strength: (leave empty)
+
+Ingredients: (Number of ingredients: 5)
+
+Ingredient 1:
+
+Name: Vitamin D3
+Concentration: 1000 IU
+Purpose: Bone health
+
+
+Ingredient 2:
+
+Name: Vitamin B12
+Concentration: 500mcg
+Purpose: Energy metabolism
+
+
+Ingredient 3:
+
+Name: Zinc
+Concentration: 15mg
+Purpose: Immune support
+
+
+Ingredient 4:
+
+Name: Magnesium
+Concentration: 100mg
+Purpose: Muscle function
+
+
+Ingredient 5:
+
+Name: Vitamin C
+Concentration: 500mg
+Purpose: Antioxidant
+
+
+
+Target & Usage:
+
+Target Audience:
+
+  Adults 18-65
+  Vegetarians
+  People with nutrient deficiencies
+
+Usage Instructions:
+
+  Take 1 tablet daily with food, preferably in the morning. Swallow whole with water. Do not exceed recommended dosage.
+
+Side Effects/Warnings:
+
+  May cause mild nausea if taken on empty stomach. Consult doctor if pregnant, nursing, or on medication. Keep out of reach of children.
+Benefits:
+Fills nutritional gaps
+Supports immune system
+Boosts energy levels
+Promotes overall wellness
+Custom Fields:
+
+Field 1:
+
+Name: tablets_per_bottle
+Value: 60
+
+
+Field 2:
+
+Name: vegetarian
+Value: Yes
+
+
+Field 3:
+
+Name: gluten_free
+Value: Yes
+
+=================================================================================================
+
+
+Sample 4: Home & Kitchen - Blender
+Basic Information:
+
+Product Name: PowerBlend Pro Blender
+Price: 3499
+Currency: ₹
+Category: Kitchen Appliance
+Concentration/Strength: (leave empty)
+
+Ingredients: (Number of ingredients: 4)
+
+Ingredient 1:
+
+Name: 1000W Motor
+Purpose: Powerful blending
+
+
+Ingredient 2:
+
+Name: Stainless Steel Blades
+Purpose: Crushing ice and tough ingredients
+
+
+Ingredient 3:
+
+Name: BPA-Free Jar
+Concentration: 1.5L capacity
+Purpose: Safe food contact
+
+
+Ingredient 4:
+
+Name: 5-Speed Settings
+Purpose: Versatile control
+
+
+
+Target & Usage:
+
+Target Audience:
+
+  Home cooks
+  Smoothie enthusiasts
+  Health-conscious families
+
+Usage Instructions:
+
+  Place ingredients in jar, secure lid tightly. Start at low speed, gradually increase. Do not run continuously for more than 2 minutes. Allow motor to cool between uses.
+
+Side Effects/Warnings:
+
+  Loud operation (avoid late night use). Keep hands away from blades. Unplug when not in use. Not dishwasher safe (motor base).
+Benefits:
+Makes smoothies in seconds
+Crushes ice effortlessly
+Multiple speed settings
+Easy to clean
+Durable construction
+Custom Fields:
+
+Field 1:
+
+Name: power
+Value: 1000W
+
+
+Field 2:
+
+Name: warranty
+Value: 2 years
+
+
+Field 3:
+
+Name: jar_capacity
+Value: 1.5 liters
+
+
+Field 4:
+
+Name: cord_length
+Value: 1.2 meters
+
+======================================================================================================
+
+
+Sample 5: Personal Care - Electric Toothbrush
+Basic Information:
+
+Product Name: SmileBright Sonic Toothbrush
+Price: 1899
+Currency: ₹
+Category: Oral Care
+Concentration/Strength: (leave empty)
+
+Ingredients: (Number of ingredients: 4)
+
+Ingredient 1:
+
+Name: Sonic Technology
+Concentration: 31000 strokes/min
+Purpose: Deep cleaning
+
+
+Ingredient 2:
+
+Name: Pressure Sensor
+Purpose: Prevents over-brushing
+
+
+Ingredient 3:
+
+Name: 2-Minute Timer
+Purpose: Optimal brushing duration
+
+
+Ingredient 4:
+
+Name: Soft DuPont Bristles
+Purpose: Gentle on gums
+
+
+
+Target & Usage:
+
+Target Audience:
+
+  Adults and teens 12+
+  People with braces
+  Those with gum sensitivity
+
+Usage Instructions:
+
+  Apply toothpaste to brush head. Place in mouth before turning on. Brush for 2 minutes (timer will alert). Charge when battery indicator flashes. Replace brush head every 3 months.
+
+Side Effects/Warnings:
+
+  May cause initial gum bleeding (normal, stops within 2 weeks). Not suitable for children under 12 without supervision. Consult dentist if gum issues persist.
+Benefits:
+Removes 10x more plaque than manual
+Whitens teeth in 1 week
+Gentle on sensitive gums
+Long 30-day battery life
+Custom Fields:
+
+Field 1:
+
+Name: battery_life
+Value: 30 days on single charge
+
+
+Field 2:
+
+Name: brush_modes
+Value: Clean, Sensitive, Whitening, Massage
+
+
+Field 3:
+
+Name: waterproof
+Value: IPX7 rated
+
+
+Field 4:
+
+Name: replacement_heads
+Value: 3 included

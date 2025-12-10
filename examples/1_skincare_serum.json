@@ -1,0 +1,15 @@
+{
+    "name": "GlowBoost Vitamin C Serum",
+    "price": 699,
+    "currency": "₹",
+    "category": "Serum",
+    "concentration": "10% Vitamin C",
+    "key_ingredients": [
+      {"name": "Vitamin C", "concentration": "10%", "purpose": "Brightening"},
+      {"name": "Hyaluronic Acid", "concentration": "2%", "purpose": "Hydration"}
+    ],
+    "benefits": ["Brightening", "Fades dark spots"],
+    "usage_instructions": "Apply 2-3 drops in the morning before sunscreen",
+    "side_effects": "Mild tingling for sensitive skin",
+    "target_audience": ["Oily skin", "Combination skin"]
+  }

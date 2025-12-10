@@ -1,0 +1,18 @@
+{
+    "name": "Omega-3 Fish Oil Capsules",
+    "price": 899,
+    "currency": "₹",
+    "category": "Dietary Supplement",
+    "key_ingredients": [
+      {"name": "EPA", "concentration": "360mg", "purpose": "Heart health"},
+      {"name": "DHA", "concentration": "240mg", "purpose": "Brain function"}
+    ],
+    "benefits": ["Supports heart health", "Improves brain function"],
+    "usage_instructions": "Take 2 capsules daily with meals",
+    "side_effects": "May cause fishy aftertaste",
+    "target_audience": ["Adults", "Seniors"],
+    "custom_fields": {
+      "dosage": "1000mg per serving",
+      "capsules_per_bottle": "60"
+    }
+  }
