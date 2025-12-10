@@ -1,0 +1,22 @@
+venv/
+env/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE
+.vscode/
+.idea/
+
+# Outputs (optional - you may want to track these)
+outputs/*.json
+
+# OS files
+.DS_Store

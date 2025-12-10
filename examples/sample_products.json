@@ -1,0 +1,456 @@
+{
+    "examples": [
+      {
+        "id": 1,
+        "domain": "Skincare",
+        "product": {
+          "name": "GlowBoost Vitamin C Serum",
+          "price": 699,
+          "currency": "₹",
+          "category": "Serum",
+          "concentration": "10% Vitamin C",
+          "key_ingredients": [
+            {
+              "name": "Vitamin C",
+              "concentration": "10%",
+              "purpose": "Brightening"
+            },
+            {
+              "name": "Hyaluronic Acid",
+              "concentration": "2%",
+              "purpose": "Hydration"
+            },
+            {
+              "name": "Ferulic Acid",
+              "purpose": "Antioxidant protection"
+            }
+          ],
+          "benefits": [
+            "Brightening",
+            "Fades dark spots",
+            "Evens skin tone",
+            "Boosts radiance"
+          ],
+          "usage_instructions": "Apply 2-3 drops in the morning after cleansing. Follow with sunscreen.",
+          "side_effects": "Mild tingling for sensitive skin. Patch test recommended.",
+          "target_audience": [
+            "Oily skin",
+            "Combination skin",
+            "Adults 25+"
+          ]
+        }
+      },
+      {
+        "id": 2,
+        "domain": "Food - Protein Bar",
+        "product": {
+          "name": "Organic Protein Bar",
+          "price": 150,
+          "currency": "₹",
+          "category": "Snack",
+          "key_ingredients": [
+            {
+              "name": "Almonds",
+              "concentration": "30%",
+              "purpose": "Protein source"
+            },
+            {
+              "name": "Dates",
+              "purpose": "Natural sweetener"
+            },
+            {
+              "name": "Whey Protein",
+              "concentration": "20g",
+              "purpose": "Muscle recovery"
+            },
+            {
+              "name": "Dark Chocolate Chips",
+              "concentration": "10%"
+            }
+          ],
+          "benefits": [
+            "High protein (20g per bar)",
+            "Energy boost",
+            "Post-workout recovery",
+            "Natural ingredients"
+          ],
+          "usage_instructions": "Consume 1 bar as a snack or after workout. Best consumed within 30 minutes of exercise.",
+          "side_effects": "Contains nuts and dairy. May cause allergic reactions in sensitive individuals.",
+          "target_audience": [
+            "Athletes",
+            "Fitness enthusiasts",
+            "Active individuals"
+          ],
+          "custom_fields": {
+            "calories": "250 kcal",
+            "allergens": "Nuts, Dairy",
+            "shelf_life": "6 months",
+            "serving_size": "60g"
+          }
+        }
+      },
+      {
+        "id": 3,
+        "domain": "Supplements - Omega-3",
+        "product": {
+          "name": "Omega-3 Fish Oil Capsules",
+          "price": 899,
+          "currency": "₹",
+          "category": "Dietary Supplement",
+          "key_ingredients": [
+            {
+              "name": "EPA",
+              "concentration": "360mg",
+              "purpose": "Heart health"
+            },
+            {
+              "name": "DHA",
+              "concentration": "240mg",
+              "purpose": "Brain function"
+            },
+            {
+              "name": "Vitamin E",
+              "concentration": "10mg",
+              "purpose": "Antioxidant"
+            }
+          ],
+          "benefits": [
+            "Supports heart health",
+            "Improves brain function",
+            "Reduces inflammation",
+            "Supports eye health"
+          ],
+          "usage_instructions": "Take 2 capsules daily with meals. Do not exceed recommended dosage.",
+          "side_effects": "May cause fishy aftertaste. Consult doctor if on blood thinners.",
+          "target_audience": [
+            "Adults",
+            "Seniors",
+            "Health-conscious individuals"
+          ],
+          "custom_fields": {
+            "dosage": "1000mg per serving",
+            "capsules_per_bottle": "60",
+            "form": "Softgel capsules",
+            "certifications": "GMP Certified, Third-party tested"
+          }
+        }
+      },
+      {
+        "id": 4,
+        "domain": "Electronics - Wireless Earbuds",
+        "product": {
+          "name": "SoundWave Pro Wireless Earbuds",
+          "price": 2499,
+          "currency": "₹",
+          "category": "Audio Electronics",
+          "key_ingredients": [
+            {
+              "name": "Active Noise Cancellation",
+              "purpose": "Noise reduction"
+            },
+            {
+              "name": "Bluetooth 5.2",
+              "purpose": "Wireless connectivity"
+            },
+            {
+              "name": "Touch Controls",
+              "purpose": "Easy control"
+            }
+          ],
+          "benefits": [
+            "Crystal clear audio",
+            "30-hour battery life",
+            "Comfortable fit",
+            "IPX4 water resistance"
+          ],
+          "usage_instructions": "Charge fully before first use. Pair with device via Bluetooth. Use touch controls for music and calls.",
+          "side_effects": "Prolonged use at high volume may cause hearing damage. Not suitable for use while driving.",
+          "target_audience": [
+            "Music lovers",
+            "Commuters",
+            "Fitness enthusiasts"
+          ],
+          "custom_fields": {
+            "battery_life": "30 hours with case",
+            "charging_time": "1.5 hours",
+            "warranty": "1 year",
+            "colors_available": "Black, White, Blue"
+          }
+        }
+      },
+      {
+        "id": 5,
+        "domain": "Beverages - Green Tea",
+        "product": {
+          "name": "Premium Matcha Green Tea",
+          "price": 399,
+          "currency": "₹",
+          "category": "Beverage",
+          "key_ingredients": [
+            {
+              "name": "Organic Matcha Powder",
+              "concentration": "100%",
+              "purpose": "Antioxidants"
+            },
+            {
+              "name": "L-Theanine",
+              "purpose": "Calm energy"
+            },
+            {
+              "name": "Catechins",
+              "purpose": "Metabolism boost"
+            }
+          ],
+          "benefits": [
+            "Rich in antioxidants",
+            "Boosts metabolism",
+            "Improves focus",
+            "Calm energy without jitters"
+          ],
+          "usage_instructions": "Mix 1 teaspoon with hot water (70-80°C). Whisk until frothy. Can add milk or sweetener as desired.",
+          "side_effects": "Contains caffeine. Avoid consumption late evening. May interact with certain medications.",
+          "target_audience": [
+            "Health enthusiasts",
+            "Tea lovers",
+            "Adults"
+          ],
+          "custom_fields": {
+            "caffeine_content": "70mg per serving",
+            "servings_per_pack": "30",
+            "origin": "Japan",
+            "organic_certified": "Yes"
+          }
+        }
+      },
+      {
+        "id": 6,
+        "domain": "Personal Care - Shampoo",
+        "product": {
+          "name": "Keratin Repair Shampoo",
+          "price": 549,
+          "currency": "₹",
+          "category": "Hair Care",
+          "key_ingredients": [
+            {
+              "name": "Hydrolyzed Keratin",
+              "concentration": "5%",
+              "purpose": "Hair strengthening"
+            },
+            {
+              "name": "Argan Oil",
+              "purpose": "Moisture and shine"
+            },
+            {
+              "name": "Biotin",
+              "concentration": "0.1%",
+              "purpose": "Hair growth"
+            }
+          ],
+          "benefits": [
+            "Repairs damaged hair",
+            "Adds shine and smoothness",
+            "Reduces breakage",
+            "Sulfate-free formula"
+          ],
+          "usage_instructions": "Apply to wet hair, massage into scalp, lather and rinse thoroughly. For best results, use with matching conditioner.",
+          "side_effects": "For external use only. Avoid contact with eyes. Discontinue if irritation occurs.",
+          "target_audience": [
+            "Damaged hair",
+            "Color-treated hair",
+            "All hair types"
+          ],
+          "custom_fields": {
+            "volume": "250ml",
+            "pH_level": "5.5",
+            "fragrance": "Coconut & Vanilla",
+            "paraben_free": "Yes"
+          }
+        }
+      },
+      {
+        "id": 7,
+        "domain": "Fitness - Yoga Mat",
+        "product": {
+          "name": "EcoFlow Premium Yoga Mat",
+          "price": 1299,
+          "currency": "₹",
+          "category": "Fitness Equipment",
+          "key_ingredients": [
+            {
+              "name": "Natural Rubber Base",
+              "purpose": "Grip and stability"
+            },
+            {
+              "name": "Microfiber Top Layer",
+              "purpose": "Sweat absorption"
+            },
+            {
+              "name": "Eco-friendly Materials",
+              "purpose": "Sustainability"
+            }
+          ],
+          "benefits": [
+            "Non-slip surface",
+            "Extra cushioning for joints",
+            "Eco-friendly and sustainable",
+            "Easy to clean"
+          ],
+          "usage_instructions": "Unroll mat on flat surface. Use with top layer facing up. Clean with damp cloth after use. Air dry before rolling.",
+          "side_effects": "May have natural rubber smell initially. Ventilate before first use. Not suitable for latex allergies.",
+          "target_audience": [
+            "Yoga practitioners",
+            "Fitness enthusiasts",
+            "Pilates practitioners"
+          ],
+          "custom_fields": {
+            "dimensions": "183cm x 61cm x 6mm",
+            "weight": "2.5kg",
+            "material": "Natural rubber + Microfiber",
+            "carrying_strap": "Included"
+          }
+        }
+      },
+      {
+        "id": 8,
+        "domain": "Baby Care - Diaper",
+        "product": {
+          "name": "SoftTouch Baby Diapers",
+          "price": 899,
+          "currency": "₹",
+          "category": "Baby Care",
+          "key_ingredients": [
+            {
+              "name": "Cotton-soft Top Layer",
+              "purpose": "Gentle on skin"
+            },
+            {
+              "name": "Super Absorbent Polymer",
+              "purpose": "Leak protection"
+            },
+            {
+              "name": "Aloe Vera Extract",
+              "purpose": "Skin soothing"
+            }
+          ],
+          "benefits": [
+            "12-hour dryness",
+            "Breathable material",
+            "Wetness indicator",
+            "Hypoallergenic"
+          ],
+          "usage_instructions": "Change diaper every 3-4 hours or when wet. Clean baby's skin before applying new diaper. Dispose responsibly.",
+          "side_effects": "Rare cases of skin irritation. Discontinue use if rash develops. Not flushable.",
+          "target_audience": [
+            "Infants 0-6 months",
+            "Parents",
+            "Caregivers"
+          ],
+          "custom_fields": {
+            "size": "Medium (5-9 kg)",
+            "count": "72 diapers",
+            "wetness_indicator": "Yes",
+            "fragrance": "Fragrance-free"
+          }
+        }
+      },
+      {
+        "id": 9,
+        "domain": "Home Care - Air Purifier",
+        "product": {
+          "name": "PureAir 360 Air Purifier",
+          "price": 8999,
+          "currency": "₹",
+          "category": "Home Appliance",
+          "key_ingredients": [
+            {
+              "name": "HEPA H13 Filter",
+              "purpose": "99.97% particle removal"
+            },
+            {
+              "name": "Activated Carbon Filter",
+              "purpose": "Odor elimination"
+            },
+            {
+              "name": "UV-C Light",
+              "purpose": "Bacteria and virus elimination"
+            },
+            {
+              "name": "Smart Air Quality Sensor",
+              "purpose": "Real-time monitoring"
+            }
+          ],
+          "benefits": [
+            "Removes allergens and pollutants",
+            "Eliminates odors and smoke",
+            "Quiet operation",
+            "Smart auto mode"
+          ],
+          "usage_instructions": "Place in central location. Turn on and select mode. Replace filters every 6-12 months. Clean exterior monthly.",
+          "side_effects": "Ozone-free operation. Keep away from water. Ensure proper ventilation in room.",
+          "target_audience": [
+            "Allergy sufferers",
+            "Urban dwellers",
+            "Pet owners"
+          ],
+          "custom_fields": {
+            "coverage_area": "400 sq ft",
+            "noise_level": "25-50 dB",
+            "power_consumption": "45W",
+            "filter_life": "6-12 months",
+            "warranty": "2 years"
+          }
+        }
+      },
+      {
+        "id": 10,
+        "domain": "Pet Care - Dog Food",
+        "product": {
+          "name": "PawsNutrition Adult Dog Food",
+          "price": 1499,
+          "currency": "₹",
+          "category": "Pet Food",
+          "key_ingredients": [
+            {
+              "name": "Chicken",
+              "concentration": "40%",
+              "purpose": "Protein source"
+            },
+            {
+              "name": "Brown Rice",
+              "concentration": "20%",
+              "purpose": "Energy and fiber"
+            },
+            {
+              "name": "Fish Oil",
+              "purpose": "Omega-3 for coat health"
+            },
+            {
+              "name": "Vegetables",
+              "concentration": "15%",
+              "purpose": "Vitamins and minerals"
+            }
+          ],
+          "benefits": [
+            "Complete and balanced nutrition",
+            "Supports healthy skin and coat",
+            "Promotes digestive health",
+            "Maintains ideal weight"
+          ],
+          "usage_instructions": "Feed according to dog's weight. Divide daily amount into 2 meals. Always provide fresh water. Transition gradually from previous food.",
+          "side_effects": "Store in cool, dry place. Use within 30 days of opening. Not for human consumption.",
+          "target_audience": [
+            "Adult dogs (1-7 years)",
+            "Medium breeds",
+            "Active dogs"
+          ],
+          "custom_fields": {
+            "weight": "3kg",
+            "protein_content": "26%",
+            "fat_content": "14%",
+            "grain_free": "No",
+            "life_stage": "Adult"
+          }
+        }
+      }
+    ]
+  }
