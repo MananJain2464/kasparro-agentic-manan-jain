@@ -4,10 +4,15 @@ Coordinates all agents in the content generation workflow
 """
 import sys
 from pathlib import Path
-sys.path.insert(0, str(Path(__file__).parent.parent))
-
 from typing import Dict, Any
+
+from dotenv import load_dotenv
 from langgraph.graph import StateGraph, END
+
+# Ensure project imports work and env vars are loaded early (for OPENAI_API_KEY)
+sys.path.insert(0, str(Path(__file__).parent.parent))
+load_dotenv()
+
 from src.models.state_model import WorkflowState
 from src.agents.data_parser_agent import parse_product_data
 from src.agents.question_generator_agent import generate_questions
